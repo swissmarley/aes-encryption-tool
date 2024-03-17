@@ -1,4 +1,4 @@
-# AES Encryption and Decryption Tool
+# 🔑 AES Encryption and Decryption Tool 🔑
 
 Secure your sensitive information with this AES Encryption and Decryption Tool. This easy-to-use GUI application empowers users to encrypt and decrypt text using the Advanced Encryption Standard (AES) algorithm, enhancing data security and confidentiality.
 
